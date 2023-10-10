@@ -1,0 +1,9 @@
+[built-system]
+requires = ["hatchling"]
+build-backend = "hatching.build"
+
+[project]
+name = "fibonacci"
+version = "0.1"
+
+# current folder: .
